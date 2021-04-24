@@ -1,2 +1,15 @@
 test1:ioc控制反转的基本概念
 test2:构造注入、设值注入
+test3:scope="singleton" 单例模式
+test4:三种方式实现初始化和销毁方法
+test5:Aware系列的接口
+test6:default-autowire="byName"根据名称查找
+test7:Resources 获取资源中的信息
+test8:注解方式设置Scope和Component
+test9:注解方式定义bean  Autowired和Service 配置文件中开启扫描注解即可
+test10:注解方式 Autowired实例化List和Map
+test11:Qualifier注解的用法
+test12:注解方式 @Bean(name = "stringStore", initMethod = "init", destroyMethod = "destroy")
+test13:注解方式读取文件 @ImportResource("classpath:config.xml") @Value("${jdbc.url}")
+test14:注解 泛型
+test15:注解 JSR
