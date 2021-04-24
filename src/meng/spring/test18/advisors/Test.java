@@ -4,12 +4,6 @@ import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-/**
- * ≤‚ ‘¿‡
- * 
- * @author mengzhang6
- * 
- */
 public class Test {
 
 	public static void main(String[] args) {
